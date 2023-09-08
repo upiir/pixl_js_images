@@ -24,10 +24,15 @@ Related videos with 128x64 OLED display:
 - Save Image from OLED Display to PC - https://youtu.be/Ft2pRMVm44E
 
 
-
-
-
 ![THUMB_pixljs_image_03](https://github.com/upiir/pixl_js_images/assets/117754156/96208226-d60d-4061-8fa9-7edd39653966)
+
+
+Small animation:
+
+
+![pixl_js](https://github.com/upiir/pixl_js_images/assets/117754156/31ecb49a-03a3-4c14-8530-1b6bc4cbe77a)
+
+
 
 
 Screenshots from the video:
