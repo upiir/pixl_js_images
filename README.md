@@ -30,7 +30,8 @@ Related videos with 128x64 OLED display:
 Small animation:
 
 
-![pixl_js](https://github.com/upiir/pixl_js_images/assets/117754156/31ecb49a-03a3-4c14-8530-1b6bc4cbe77a)
+![pixl_js__slower](https://github.com/upiir/pixl_js_images/assets/117754156/d051c4cf-40d4-4859-8d49-ef0e0df27184)
+
 
 
 
